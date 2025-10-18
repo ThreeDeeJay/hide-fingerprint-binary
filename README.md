@@ -68,6 +68,7 @@ Anyway, if you've come across this issue but haven't rooted your phone and want 
 Then, just download and flash the module ([zip file](https://github.com/ThreeDeeJay/hide-fingerprint-binary/releases/latest)) by selecting Install from storage and locate the Zip file.
 <img width="405" height="155" alt="image" src="https://github.com/user-attachments/assets/e8df188b-c7d6-4c8c-b413-71aa2cc92f0a" />
 <img width="391" height="199" alt="image" src="https://github.com/user-attachments/assets/efd44fbf-c210-493e-946a-ae02ec5482fe" />
+
 Installing should just take a second and then you just gotta reboot, where you'll notice the fingerprint options (unlocking and system Settings options are gone).
 The way this works is that Magisk adds a layer where it fakes the files that are actually stored in certain places, in this case the fingerprint sensor libraries, which are replaced with empty files on the surface, but without actually replacing the system files under the hood, which can trip system modification status and maybe even bootloops.
 
