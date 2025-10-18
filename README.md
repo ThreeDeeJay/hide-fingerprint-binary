@@ -62,7 +62,7 @@ BiometricScheduler: [Starting User] {[105292] com.android.server.biometrics.sens
 
 # How?
 
-WARNING: This has only been tested specifically on a Sony Xperia 1 III (XQ-BC72) on [lineage-23.0-20251013-nightly-pdx215-signed](https://mirrorbits.lineageos.org/full/pdx215/20251013/lineage-23.0-20251013-nightly-pdx215-signed.zip) with [Magisk v30.4](https://github.com/topjohnwu/Magisk/releases/tag/v30.4). Not yet tested thoroughly and not guaranteed to work on any other hardware/software, so proceed at your own risk.
+WARNING: This has only been tested specifically on a Sony Xperia 1 III (XQ-BC72) on [lineage-23.0-20251013-nightly-pdx215-signed](https://mirrorbits.lineageos.org/full/pdx215/20251013/lineage-23.0-20251013-nightly-pdx215-signed.zip) with [Magisk v30.4](https://github.com/topjohnwu/Magisk/releases/tag/v30.4). Not yet tested thoroughly and not guaranteed to work on any other hardware/software, so proceed at your own risk. If you're feeling adventurous (and desperate), you could check for fingerprint/biometrics-related files in your root/system folders, and modify my mobile zip by extracting it then add empty files with the same name and relative folder structure then zip back, flash and pray it doesn't brick your device.
 
 Anyway, if you've come across this issue but haven't rooted your phone and want to fix it at all costs, it might be a good time to [do so](https://topjohnwu.github.io/Magisk/install.html).
 Then, just download and flash the module ([zip file](https://github.com/ThreeDeeJay/hide-fingerprint-binary/releases/latest)) by selecting Install from storage and locate the Zip file.
