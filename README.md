@@ -72,7 +72,7 @@ Then, just download and flash the module ([zip file](https://github.com/ThreeDee
 Installing should just take a second and then you just gotta reboot, where you'll notice the fingerprint options (unlocking and system Settings options are gone).
 The way this works is that Magisk adds a layer where it fakes the files that are actually stored in certain places, in this case the fingerprint sensor libraries, which are replaced with empty files on the surface, but without actually replacing the system files under the hood, which can trip system modification status and maybe even bootloops.
 
-In my case, the improvement as shown in [3C Toolbox](https://play.google.com/store/apps/details?id=ccc71.at.free&hl=en-US)'s Task Manager as was night and day, with the phone running smootly and no more first degree burns.
+In my case, the improvement as shown in [3C Toolbox](https://play.google.com/store/apps/details?id=ccc71.at.free&hl=en-US)'s Task Manager even when idling (no other apps running in the foreground) as was night and day, with the phone running smootly and no more first degree burns.
 
 <img width="400" height="326" alt="image" src="https://github.com/user-attachments/assets/fdae12ba-a03b-43d8-893a-671cf7553564" /> <img width="395" height="324" alt="image" src="https://github.com/user-attachments/assets/054d7f40-69ce-4283-928f-ebaba4dc9dca" />
 
