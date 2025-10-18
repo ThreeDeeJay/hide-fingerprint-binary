@@ -75,5 +75,5 @@ In my case, the improvement as shown in [3C Toolbox](https://play.google.com/sto
 
 <img width="400" height="326" alt="image" src="https://github.com/user-attachments/assets/fdae12ba-a03b-43d8-893a-671cf7553564" /> <img width="395" height="324" alt="image" src="https://github.com/user-attachments/assets/054d7f40-69ce-4283-928f-ebaba4dc9dca" />
 
-Credits:
+# Credits
 - [dartraiden/Fingerprint-Disabler](https://github.com/dartraiden/Fingerprint-Disabler) - Suggested more files I needed to hide.
