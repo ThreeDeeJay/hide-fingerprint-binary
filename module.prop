@@ -1,0 +1,5 @@
+id=hide-fingerprint-binary
+name=Hide Fingerprint Binary
+version=1.0
+author=ThreeDeeJay
+description=Hides fingerprint sensor-related system files to disable functionality.
